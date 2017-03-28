@@ -65,6 +65,10 @@
 		                        </li><li class="vpf">
 		                            <a href="contact.php">Contact Us</a>
 		                        </li>
+		                        <li class="vpf" style='padding-top: 2px;'>
+		                            <a href="https://facebook.com/scorpiontennis" target='_blank'><i class="icon icon-xs ti-facebook"></i></a>
+		                        </li>
+		                        
 		                        
 		                        
 		                    </ul>
