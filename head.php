@@ -52,11 +52,7 @@
 		                                        Adult Coaching
 		                                    </a>
 		                                </li>
-		                                <li>
-		                                    <a href="holiday-coaching.php">
-		                                        Holiday Clinics
-		                                    </a>
-		                                </li>
+		                                
 		                            </ul>
 		                        </li><li class="vpf">
 		                            <a href="timetable.php">Timetable</a>

@@ -24,7 +24,7 @@
 						</div>
 					
 						<div class="col-sm-4 text-center hidden-xs">
-							<span>Website Design &amp; Development by Isaac Nankavill</span>
+							<span>Website Design &amp; Development by <a href='mailto:me@isaacnankavill.com'> Isaac Nankavill</a></span>
 						</div>
 					
 						<div class="col-sm-4 text-right hidden-xs">
