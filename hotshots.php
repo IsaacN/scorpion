@@ -56,7 +56,9 @@
 		                <div class="col-sm-10 col-sm-offset-1 text-center">
 		                    <h3 class="uppercase color-primary mb40 mb-xs-24">Modified Equipment</h3>
 		                    <p class="lead">
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+		                        At Scorpion, we recognise the challenges of kids who are trying tennis for the very first time. It is therefore important for them to have a modified set of equipment that is practical and suitable for their levels and physical abilities.
+		                        <br>
+		                        We believe that kids will be encouraged to learn through play with the provided equipment from Tennis Australia, including the smaller racquets and low-compression ball courts, together with our accredited and passionate coaches.
 		                    </p>
 		                </div>
 		            </div>
@@ -69,7 +71,7 @@
 		                <div class="col-sm-10 col-sm-offset-1 text-center">
 		                    <h3 class="uppercase color-primary mb40 mb-xs-24">Progressive Pathway</h3>
 		                    <p class="lead">
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+		                        Scorpion Hotshots is designed to be challenging yet fun at the same time. Students are encouraged to improve their skills at their own pace. At Scorpion, students are grouped in accordance with their skill and age through our three stages, Blue, Red and Orange. These stages help our coaches to focus on key skills development so a better, more suitable teaching style can be utilised.
 		                    </p>
 		                </div>
 		            </div>
@@ -82,7 +84,7 @@
 		                <div class="col-sm-10 col-sm-offset-1 text-center">
 		                    <h3 class="uppercase color-dark mb40 mb-xs-24" style="color: #fff" >Blue Hotshots (Age 4–6)</h3>
 		                    <p class="lead">
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+		                        Players will develop Fundamental and Perceptual Motor Skills (FPMS). They unclude Locomotor, Balance Skills and Ball Skills. They will also learn simple balance, swing patterns, basic racquet and ball skills. 
 		                    </p>
 		                </div>
 		            </div>
@@ -95,7 +97,7 @@
 		                <div class="col-sm-10 col-sm-offset-1 text-center">
 		                    <h3 class="uppercase color-dark mb40 mb-xs-24" color='#fff'>Red Hotshots (Age 5–7)</h3>
 		                    <p class="lead">
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+		                        Players will develop basic strokes including forehand, backhand, volley and serve. They will continue to refine their rally skills through throwing, hitting and catching. Red Hotshots players, after finishing this level, are able to score and understand the rules of the game..
 		                    </p>
 		                </div>
 		            </div>
@@ -108,7 +110,7 @@
 		                <div class="col-sm-10 col-sm-offset-1 text-center">
 		                    <h3 class="uppercase color-light mb40 mb-xs-24">Orange Hotshots (Age 6–8)</h3>
 		                    <p class="lead">
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+		                        Players after completing this level, will have proper contact and control of the ball. They will continue refining their strokes, grips and contact points. They will also develop their shapes including the use of spin.
 		                    </p>
 		                </div>
 		            </div>
@@ -119,7 +121,7 @@
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
-		                    <h2 class="mb8">Coaching Programs</h2>
+		                    <a href='junior-coaching.php'><h2 class="mb8">Coaching Programs</h2></a>
 		                    
 		                    
 		                </div>
