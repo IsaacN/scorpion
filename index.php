@@ -69,7 +69,7 @@
 		                        		Fun and challenging environment
 		                        	</li>
 		                        	<li>
-		                        		Prominent tennis academy in West Brisbane area
+		                        		Prominent tennis academy in Brisbane's Western Suburbs
 		                        	</li>
 		                        	<li>
 		                        		Afforable rates
@@ -84,7 +84,22 @@
 		                <div class="col-sm-6">
 		                    <h2 class="number">What to know</h2>
 		                    <p>
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+		                        <ul style='list-style-type: circle; margin-left: 15px;'>
+		                        	<li>
+		                        		For beginner, intermediate and advanced level players
+		                        	</li>
+		                        	<li>
+		                        		Both adult and junior classes available
+		                        	</li>
+		                        	<li>
+		                        		Group/individual classes running all week long
+		                        	</li>
+		                        	<li>
+		                        		Classes are in various suburbs including Jindalee, Kenmore, Mt Crosby and Karalee
+		                        	</li>
+		                        
+		                        </ul>
+
 		                    </p>
 		                </div>
 		                
@@ -97,7 +112,7 @@
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
 		                    <h3 class="mb0 inline-block p32 p0-xs">Want to try tennis at Scorpion? Enjoy your first class free!&nbsp;</h3>
-		                    <a class="btn btn-lg btn-white mb8 mt-xs-24" href="#">I'm Interested</a>
+		                    <a class="btn btn-lg btn-white mb8 mt-xs-24" href="contact.php">I'm Interested</a>
 		                </div>
 		            </div>
 		            
@@ -125,7 +140,7 @@
 		                    
 		                </div>
 		                </a>
-		                <a href='#'>
+		                <a href='adult-coaching.php'>
 		                <div class="col-sm-6 text-center">
 		                    <div class="feature">
 		                        <div class="text-center">
