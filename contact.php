@@ -19,7 +19,7 @@
 		                    <p>
 		                        <strong>E:</strong> info@scorpiontennis.net
 		                        <br>
-		                        <strong>P:</strong> <a href="tel:0407008422">0411 817 667</a>
+		                        <strong>P:</strong> <a href="tel:0411817667">0411 817 667</a>
 		                        <br>
 		                    </p>
 		                </div>
