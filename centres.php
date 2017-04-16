@@ -26,15 +26,17 @@
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-6">
-		                    <h2 class="number">Parish Centre</h2>
+		                    <h2 class="number">Jindalee Parish Centre</h2>
+		                    <h4>109 Yallambee Rd, Jindalee QLD 4074</h4>
 		                    <p>
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+		                        Full-time operating commercial center for Scorpion Hotshots and Adult Coaching programs. Available all year long.
 		                    </p>
 		                </div>
 		                <div class="col-sm-6">
 		                    <h2 class="number">Centenary State High School</h2>
+		                    <h4>22 Curragundi Rd, Jindalee QLD 4074</h4>
 		                    <p>
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+		                        Centenary State High School with four courts, lights-equipped, and gym facilities for high-intensity training. Available for private bookings all year after 3.15 pm and all days during weekends.  
 		                    </p>
 		                </div>
 		                
@@ -46,21 +48,24 @@
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-4">
-		                    <h2 class="number">Karalee State High School</h2>
+		                    <h2 class="number">Karalee State School</h2>
+		                    <h4>Arthur Summervilles Rd, Karalee QLD 4306</h4>
 		                    <p>
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+		                        Classes in Karalee State School usually run on Thursday and Friday afternoons during all school terms. 
 		                    </p>
 		                </div>
 		                <div class="col-sm-4">
 		                    <h2 class="number">Kenmore State High School</h2>
+		                    <h4>20 Paley St, Kenmore Hills QLD 4069</h4>
 		                    <p>
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+		                        Kenmore State High School offers state-of-the-art facilities with six courts. It is privately managed, perfect training facility for tournament level. Three different types of hard court surfaces allow juniors to gain experience on fast and slow hard courts. 
 		                    </p>
 		                </div>
 		                <div class="col-sm-4">
-		                    <h2>Mount Crosby State High School</h2>
+		                    <h2>Mount Crosby State School</h2>
+		                    <h4>Mount Crosby Rd, Mount Crosby QLD​ 4306</h4>
 		                    <p>
-		                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+		                        Mount Crosby State School offers great facilities for many students to practice tennis from Monday to Friday in four school terms. 
 		                    </p>
 		                </div>
 		            </div>

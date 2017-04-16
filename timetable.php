@@ -15,7 +15,7 @@
 		        <div class="container">
 		            <div class="row v-align-children">
 		                <div class="col-sm-6 text-center mb-xs-24 col-md-12">
-		                    <img class="cast-shadow" alt="Scorpion Timetable" src="img/timetable1.jpeg">
+		                    <img class="cast-shadow" alt="Scorpion Timetable" src="img/timetable-2.png">
 		                </div>
 		                
 		            </div>

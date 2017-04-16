@@ -161,7 +161,7 @@
 		                		Our cardio tennis program is designed to suit both beginners and advanced players. It is an hour-long fitness workout to music for adults. A great way to burn off those Christmas calories!
 		                	</p>
  -->		                    <div class="pricing-table pt-2 boxed text-center">
-		                        <span class="price">$15</span>
+		                        <span class="price">$20</span>
 		                        <p class="lead">Per Session (60 min)</p>
 		                        <a class="btn btn-filled btn-lg" href="contact.php">Get Started</a>
 		                        <ul>
@@ -187,7 +187,7 @@
 		                		Fast4 Tennis; format is specifically aimed at speeding up the game of tennis, with less breaks in play and some rules tweaked to speed up play. The new formula will allow you to play team-based competition tennis. This has been designed to encourage high standards of competition play.
 		                	</p> -->
 		                    <div class="pricing-table pt-2 boxed text-center">
-		                        <span class="price">$15</span>
+		                        <span class="price">$10</span>
 		                        <p class="lead">Per Session (2 hrs)</p>
 		                        <a class="btn btn-filled btn-lg" href="contact.php">Get Started</a>
 		                        <ul>

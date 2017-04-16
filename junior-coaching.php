@@ -1,7 +1,7 @@
 <?php include('head.php');?>
 		<div class="main-container">
 					
-			<section class="image-square right" style='max-height: 840px;'>
+			<section class="image-square right" style='max-height: 1300px;'>
 		        <div class="col-md-6 image">
 		            <div class="background-image-holder">
 		                <img alt="image" class="background-image" src="img/scorpion-junior-side.jpeg">
@@ -30,47 +30,19 @@
 		            </div>
 		            
 		            <div class="row">
-		                <div class="col-sm-6 col-md-3">
-		                    <div class="pricing-table pt-1 text-center">
-		                        <h5 class="uppercase">30 Minutes</h5>
-		                        <span class="price">$37</span>
-		                        <p class="lead">Per Lesson</p>
-		                        <a class="btn btn-filled btn-lg" href="contact.php">Get Started</a>
-		                        
-		                    </div>
-		                    
-		                </div>
-		                <div class="col-sm-6 col-md-3">
-		                    <div class="pricing-table pt-1 text-center boxed">
-		                        <h5 class="uppercase">45 Minutes</h5>
-		                        <span class="price">$57</span>
-		                        <p class="lead">Per Lesson</p>
-		                        <a class="btn btn-filled btn-lg" href="contact.php">Get Started</a>
-		                        
-		                    </div>
-		                    
-		                </div><div class="col-sm-6 col-md-3">
+		                <div class=" col-sm-offset-3 col-sm-6 col-md-offset-4 col-md-4">
 		                    <div class="pricing-table pt-1 text-center boxed">
 		                        <h5 class="uppercase">60 Minutes</h5>
-		                        <span class="price">$74</span>
+		                        <span class="price">$88</span>
 		                        <p class="lead">Per Lesson</p>
 		                        <a class="btn btn-filled btn-lg" href="contact.php">Get Started</a>
 		                        
 		                    </div>
 		                    
 		                </div>
-		                <div class="col-sm-6 col-md-3">
-		                    <div class="pricing-table pt-1 text-center emphasis">
-		                        <h5 class="uppercase">90 Minutes</h5>
-		                        <span class="price">$105</span>
-		                        <p class="lead">Per Lesson</p>
-		                        <a class="btn btn-white btn-lg" href="contact.php">Get Started</a>
-		                        
-		                    </div>
-		                    
-		                </div>
+		                
 		            </div>
-		            <br>
+		            <!-- <br>
 		            <div class="row">
 		                <div class="col-sm-6 col-md-3">
 		                    <div class="pricing-table pt-1 text-center">
@@ -111,7 +83,7 @@
 		                    </div>
 		                    
 		                </div>
-		            </div>
+		            </div> -->
 		            
 		        </div>
 		        
