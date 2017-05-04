@@ -110,7 +110,7 @@
 		    </section>
 		    <section class="page-title page-title-2 image-bg overlay">
 		        <div class="background-image-holder">
-		            <img alt="Background Image" class="background-image" src="img/adult-programs.jpg">
+		            <img alt="Background Image" class="background-image" src="img/scorpion-adult.jpeg">
 		        </div>
 		        <div class="container">
 		            <<!-- div class="row">
@@ -146,7 +146,7 @@
 		                </div>
 		                
 		                <div class="col-sm-6">
-		                    <h2>Fast4 Fixtures</h2>
+		                    <h2>Fast4 Competition</h2>
 		                    <p>
 		                        Fast4 Tennis' format is specifically aimed at speeding up the game of tennis, with less breaks in play and some rules tweaked to speed up play. The new formula will allow you to play team-based competition tennis. This has been designed to encourage high standards of competition play.</p>
 		                </div>
@@ -187,7 +187,7 @@
 		                		Fast4 Tennis; format is specifically aimed at speeding up the game of tennis, with less breaks in play and some rules tweaked to speed up play. The new formula will allow you to play team-based competition tennis. This has been designed to encourage high standards of competition play.
 		                	</p> -->
 		                    <div class="pricing-table pt-2 boxed text-center">
-		                        <span class="price">$10</span>
+		                        <span class="price">$20</span>
 		                        <p class="lead">Per Session (2 hrs)</p>
 		                        <a class="btn btn-filled btn-lg" href="contact.php">Get Started</a>
 		                        <ul>
@@ -195,7 +195,8 @@
 		                                Parish Courts
 		                            </li>
 		                            <li>
-		                                Saturday 2:00pm to 4:00pm
+		                            	Wednesday 7:00pm to 9:00pm
+		                                Saturday $20 per 2 hours 
 		                            </li>
 		                            
 		                           

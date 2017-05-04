@@ -12,10 +12,10 @@
 		            <p class="mb0">
 		                The aim of our academy is to provide the best tennis teaching facility for junior players so that they can develop their skills to an advanced level as they get older. THerefore, we have a comprehensive range of classes tailored for all levels and ages at four different schools from Monday to Saturday during school term (subject to public holidays).
 		            </p><br> <br><h3>Fixtures Competition</h3><p class="mb0">
-		                The Scorpion International Tennis' Fixtures Competition program is designed to provide your child the opportunity to enjoy useful match play experience with the other kids with the same skill level.
-		                Fixtures are held each week of the school term on Saturday mornings at Centenery SHS (subject to public holidays).
+		                The Scorpion International Tennis' Fixtures Competition program is designed to provide your child the opportunity to enjoy useful match play experience with the other students with the same skill level.
+		                Fixtures are held each week of the school term on Saturday mornings at the Parish Courts (subject to public holidays).
 		            </p><br> <br><h3>Squad Training Program</h3><p class="mb0">
-		                Our squad training program is designed based on the Spanish tennis intensity training. Students in these classes will have an opportunity to excel in their high level of competency. The program will equip students to participate in tournament programs, both state-wide and nationally. Once they get to the proficient level, students can have access to our Summer Vacation International program in major tennis cities such as Los Angeles, Spain and Bangkok. These programs will assist them to learn important tactics and tournament work, enabling them to enter the professional level.
+		                Our squad training program is designed based on the Spanish training system. Students in these classes are looking to competition, tournaments , US Education scholarship or professional. We have bases in Spain to facilitate any objective.  
 		            </p>
 		        </div>
 		    </section>
