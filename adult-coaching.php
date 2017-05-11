@@ -11,12 +11,13 @@
   								-webkit-hyphens: auto;
   								hyphens: auto;
   								word-break: break-word;
+  								color: #000;
 						'>Adult<br>Programs</h1>
 							
 							<hr class="visible-xs">
 						</div>
-						<div class="col-sm-7 col-md-6">
-							<p>
+						<div class="col-sm-7 col-md-6" >
+							<p style='color: #000;'>
 								Our adult programs are a blend of coaching and social play. It is suitable for adults interested in trying out the tennis program or regular social players. The time is also suitable for parents who already have their kids participating in Scorpion's Saturday programs. Parents therefore are able to witness their kids performing on the courts, at the same time, improving their own tennis skills.&nbsp;</p>							
 						</div>
 					</div>

@@ -3,12 +3,12 @@
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center mb64 mb-xs-24">
 							<a href="#">
-								<img alt="Logo" class="image-xs mb16" src="img/logo-light.png">
+								<img alt="Logo" class="image-xs mb16" src="img/logo-dark.png">
 							</a>
-							<p class="lead mb48 mb-xs-16">
+							<p class="lead mb48 mb-xs-16" style='color: #222;'>
 								Scorpion International Tennis<br>
 								Brisbane Western Suburbs Tennis Academy<br>
-								<a href="tel:0411817667">0411 817 667</a>
+								<a href="tel:0411817667" style='color: #222;'>0411 817 667</a>
 							</p>
 							<ul class="list-inline social-list spread-children">
 							

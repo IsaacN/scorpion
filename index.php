@@ -13,7 +13,7 @@
 		                    <div class="row text-center">
 		                        <div class="col-md-10 col-md-offset-1">
 		                            <h2 class="mb-xs-16">Scorpion International Tennis</h2>
-		                            <p class="lead mb40">We believe it is never too early to start tennis!</p>
+		                            <p class="lead mb40 heroSubtitle">We believe it is never too early to start tennis!</p>
 		                            
 		                            <a class="btn btn-lg btn-filled" href="contact.php">I'm Interested</a>
 		                        </div>
@@ -29,7 +29,7 @@
 		                    <div class="row text-center">
 		                        <div class="col-md-10 col-md-offset-1">
 		                            <h2 class="mb-xs-16">Scorpion International Tennis</h2>
-		                            <p class="lead mb40">Affordable rates. 30 years of experience.</p>
+		                            <p class="lead mb40 heroSubtitle">Affordable rates. 30 years of experience.</p>
 		                            
 		                            <a class="btn btn-lg btn-filled" href="#">I'm Interested</a>
 		                        </div>
@@ -45,7 +45,7 @@
 		                    <div class="row text-center">
 		                        <div class="col-md-10 col-md-offset-1">
 		                            <h2 class="mb-xs-16">Scorpion International Tennis</h2>
-		                            <p class="lead mb40">Your first group lesson is free!</p>
+		                            <p class="lead mb40 heroSubtitle">Your first group lesson is free!</p>
 		                            
 		                            <a class="btn btn-lg btn-filled" href="#">I'm Interested</a>
 		                        </div>

@@ -1,1 +1,5 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
+p.lead.heroSubtitle{
+	font-size: 20px;
+	font-weight: 300;
+}
