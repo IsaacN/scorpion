@@ -33,7 +33,7 @@
 		                    <p>
 		                    	Duration: 60 Minutes | Group of 6&ndash;8 adults | Parish Courts <br>
 		                        	Beginner Adult Coaching <br>
-		                        	Saturday 7:30am&ndash;8:30am &amp; Wednesday 9:15am&ndash;10:15am
+		                        	Saturday 9am&ndash;10am (Winter); 8:30am&ndash;9:30am (Summer) 
 		                    </p>
 		                </div>
 		                
@@ -44,7 +44,7 @@
 		                        <p>
 		                        	Duration: 60 Minutes | Group of 6&ndash;8 adults | Parish Courts <br>
 		                        	Intermediate Adult Coaching <br>
-		                        	Saturday 7:30am&ndash;8:30am &amp; Wednesday 9:15am&ndash;10:15am
+		                        	Saturday 9am&ndash;10am (Winter); 8:30am&ndash;9:30am (Summer) 
 		                        </p>
 		                </div>
 						
@@ -140,13 +140,9 @@
 		                
 		            </div>
 		            <div class="row">
-		                <div class="col-sm-6">
-		                    <h2 class="number">Cardio Tennis</h2>
-		                    <p>Our cardio tennis program is designed to suit both beginners and advanced players. It is an hour-long fitness workout to music for adults. A great way to burn off those Christmas calories!
-		                    </p>
-		                </div>
 		                
-		                <div class="col-sm-6">
+		                
+		                <div class="col-sm-6 col-sm-offset-3">
 		                    <h2>Fast4 Competition</h2>
 		                    <p>
 		                        Fast4 Tennis' format is specifically aimed at speeding up the game of tennis, with less breaks in play and some rules tweaked to speed up play. The new formula will allow you to play team-based competition tennis. This has been designed to encourage high standards of competition play.</p>
@@ -157,38 +153,13 @@
 		          
 		            <div class="row">
 		               
-		                <div class="col-md-6 col-sm-6">
-		                	<!-- <p class="lead mb64">
-		                		Our cardio tennis program is designed to suit both beginners and advanced players. It is an hour-long fitness workout to music for adults. A great way to burn off those Christmas calories!
-		                	</p>
- -->		                    <div class="pricing-table pt-2 boxed text-center">
-		                        <span class="price">$20</span>
-		                        <p class="lead">Per Session (60 min)</p>
-		                        <a class="btn btn-filled btn-lg" href="contact.php">Get Started</a>
-		                        <ul>
-		                            <li>
-		                                Parish Courts
-		                            </li>
-		                            <li>
-		                                Wednesday 6:00am to 7:00am
-		                            </li>
-		                            <li>
-		                                Wednesday 6:00pm to 7:00pm
-		                            </li>
-		                            <li>
-		                                Saturday 6:00am to 7:00am
-		                            </li>
-		                           
-		                        </ul>
-		                    </div>
-		                    
-		                </div>
-		                <div class="col-md-6 col-sm-6">
+		               
+		                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3">
 		               <!--  <p class="lead mb64">
 		                		Fast4 Tennis; format is specifically aimed at speeding up the game of tennis, with less breaks in play and some rules tweaked to speed up play. The new formula will allow you to play team-based competition tennis. This has been designed to encourage high standards of competition play.
 		                	</p> -->
 		                    <div class="pricing-table pt-2 boxed text-center">
-		                        <span class="price">$20</span>
+		                        <span class="price">$25</span>
 		                        <p class="lead">Per Session (2 hrs)</p>
 		                        <a class="btn btn-filled btn-lg" href="contact.php">Get Started</a>
 		                        <ul>
@@ -197,7 +168,7 @@
 		                            </li>
 		                            <li>
 		                            	Wednesday 7:00pm to 9:00pm
-		                                Saturday $20 per 2 hours 
+		                                
 		                            </li>
 		                            
 		                           

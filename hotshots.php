@@ -7,6 +7,9 @@
 		                <div class="col-sm-5 col-md-4">
 		                    <h2 class="uppercase color-primary">Scorpion Hotshots</h2>
 		                    <hr>
+		                    <p>Saturday 8am - 9am (Winter), Parish Courts<br>
+		                    Tuesday 3.30 - 4.30 Parish Courts<br>
+		                    109 Yallambee Rd, Jindalee QLD 4074</p>
 		                    
 		                </div>
 		                <div class="col-sm-6 col-md-offset-1 p0">
@@ -82,8 +85,8 @@
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-10 col-sm-offset-1 text-center">
-		                    <h3 class="uppercase color-dark mb40 mb-xs-24" style="color: #fff" >Blue Hotshots (Age 4–6)</h3>
-		                    <p class="lead">
+		                    <h3 class="uppercase color-dark mb40 mb-xs-24" style="color: #000" >Blue Hotshots (Age 4–6)</h3>
+		                    <p class="lead" style="color: #000;">
 		                        Players will develop Fundamental and Perceptual Motor Skills (FPMS). They unclude Locomotor, Balance Skills and Ball Skills. They will also learn simple balance, swing patterns, basic racquet and ball skills. 
 		                    </p>
 		                </div>
