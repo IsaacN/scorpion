@@ -28,7 +28,7 @@
 						</div>
 					
 						<div class="col-sm-4 text-right hidden-xs">
-							<span>info@scorpiontennis.net</span>
+							<span>info@scorpiontennis.com.au</span>
 						</div>
 					</div>
 				</div>

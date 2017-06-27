@@ -55,7 +55,41 @@
 		                
 		            </li>
 		        </ul>
-		    </section><section>
+		    </section>
+		    		<section class="bg-primary">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4 col-md-offset-1 text-right text-left-xs col-sm-5">
+							<h1 class="uppercase mb24 bold italic">Harry<br>Haines</h1>
+							<h5 class="uppercase italic fade-1-4">Biography of CEO/Master Coach</h5>
+							<hr class="visible-xs">
+						</div>
+						<div class="col-md-5 col-sm-7">
+							<p>
+								Having been part of the international tennis fraternity for most of my life and as an owner/operator of a successful tennis academy in Brisbane for some 35 years, I am committed to bringing professional projects to my players at all levels in conjunction with affiliate clubs in Spain, USA and Asia.<br><br>  
+		
+		As an active seniors circuit player, I have gained further insight into the longevity of the game and benefits well beyond the professional arena.<br><br>
+		
+		Scorpion International Tennis delivers tennis training programs under the guidance of qualified professionals that meet objectives for our junior development, competition and social players.<br><br>
+		
+		With the knowledge and global experience to advise, train and supervise your investment from the start to the vital stages of decision making for scholarship or professional aspirations, I make this commitment to all my players to bring the best out in them whilst enjoying the journey!<br><br>
+		
+		Looking forward to seeing you on court.
+		<br><br>
+		Sincerely<br>Mr Harry Haines<br> CEO &amp; Master Coach
+		Scorpion International Tennis
+		
+							</p>
+							
+							
+							
+							<img alt="Harry Haines" src="img/Picture1.png" class="image-medium"><br><br>
+							<img alt="signature" src="img/fitness1.png" class="image-small">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section>
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-6">
