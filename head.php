@@ -9,7 +9,16 @@
         <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/theme-chipotle.css" rel="stylesheet" type="text/css" media="all" />
+        <?php
+        $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+
+
+if (strpos($url,'scorpion.local') !== false) {
+    echo '<link href="css/theme-chipotle.css" rel="stylesheet" type="text/css" media="all" />';
+} else {
+    echo '<link href="http://scorpion.isaacnankavill.com/css/theme-chipotle.css" rel="stylesheet" type="text/css" media="all" />';
+};
+?>
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
         <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
     </head>
