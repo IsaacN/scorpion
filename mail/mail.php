@@ -10,7 +10,7 @@ $emailMethod                = 'smtp'; // REQUIRED value. Options: 'smtp' , 'phpm
 
 // Outgoing Server Settings - replace values on the right of the = sign with your own.
 // These 3 settings are only required if you choose 'smtp' for emailMethod above.
-$outgoingServerAddress      = 'localhost'; // Consult your hosting provider.
+$outgoingServerAddress      = 'petyrbaelish.asoshared.com'; // Consult your hosting provider.
 $outgoingServerPort         = '465';                  // Options: '587' , '25' - Consult your hosting provider.
 $outgoingServerSecurity     = 'ssl';                 // Options: 'ssl' , 'tls' , null - Consult your hosting provider.
 
