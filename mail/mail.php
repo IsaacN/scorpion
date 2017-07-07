@@ -20,7 +20,7 @@ $sendingAccountUsername     = 'info@scorpiontennis.com.au';
 $sendingAccountPassword     = 'dHarrison008';
 
 // Recipient (To:) Details  - Change this to the email details of who will receive all the emails from the website.
-$recipientEmail             = 'isaac.n@icloud.com'; // REQUIRED value.
+$recipientEmail             = 'info@scorpiontennis.com.au'; // REQUIRED value.
 $recipientName              = 'Scorpion Tennis';             // REQUIRED value.
 
 // Email details            - Change these to suit your website needs
