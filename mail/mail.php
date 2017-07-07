@@ -24,7 +24,7 @@ if(isset($_POST['email'])) {
 	// or if you prefer/need to fall back to use PHP's inbuilt mail() function:
 	// $transport = Swift_MailTransport::newInstance();
 	
-	$transport = Swift_SmtpTransport::newInstance('localhost', 465, 'ssl' )
+	$transport = Swift_SmtpTransport::newInstance('petyrbaelish.asoshared.com', 465, 'ssl' )
 	  ->setUsername('info@scorpiontennis.com.au')     
 	  ->setPassword('dHarrison008')
 	  ;
