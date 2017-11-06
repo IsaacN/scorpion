@@ -38,12 +38,8 @@ if (strpos($url,'scorpion.local') !== false) {
 		            <div class="module-group right">
 		                <div class="module left">
 		                    <ul class="menu">
-		                        <li>
-		                            <a href="index.php">Home</a>
-		                        </li><li class="vpf">
-		                            <a href="centres.php">Centres</a>
-		                        </li><li class="has-dropdown toggle-sub">
-		                            <a href="programs.php">Programs&nbsp;</a>
+		                        <li class="has-dropdown toggle-sub">
+		                            <a href="index.php">Programs&nbsp;</a>
 		                            <ul>
 		                                <li>
 		                                    <a href="hotshots.php">
@@ -63,6 +59,9 @@ if (strpos($url,'scorpion.local') !== false) {
 		                                </li>
 		                                
 		                            </ul>
+		                        </li>
+		                        <li class="vpf">
+		                            <a href="centres.php">Centres</a>
 		                        </li><li class="vpf">
 		                            <a href="timetable.php">Timetable</a>
 		                        </li><li class="vpf">
